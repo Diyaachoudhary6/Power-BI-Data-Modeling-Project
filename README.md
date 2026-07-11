@@ -134,8 +134,6 @@ The model consists of interconnected fact and dimension tables designed using di
 
 ---
 
----
-
 # 🚀 Skills Demonstrated
 
 This project demonstrates practical experience in:

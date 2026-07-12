@@ -160,11 +160,14 @@ power-bi-data-modeling-project/
 │
 ├──  Dataset/
 │    └── dataset.xlsx
+│
 ├──  Images/
 │    └── Data_Model.png
+│
 ├──  Power BI File/
 │    └──  Data_Modeling_Project.pbix
-└── README.md
+│
+└──  README.md
 ```
 
 ---
